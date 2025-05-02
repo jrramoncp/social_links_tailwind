@@ -26,8 +26,8 @@ Los usuarios deben poder:
 
 ## 🔗 Links / Enlaces
 
-- 🛠️ **Solution / Solución:** [Add your solution URL](https://your-solution-url.com)  
-- 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://your-live-site-url.com)
+- 🛠️ **Solution / Solución:** [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-made-with-semantic-html-and-tailwindcss-XbxaWbGcFa)  
+- 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://jrramoncp.github.io/social_links_tailwind/)
 
 ---
 
